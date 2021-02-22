@@ -1,0 +1,7 @@
+root_server:
+  host: 'root.atsign.org'
+  port: 64
+
+security:
+  certificateChainLocation: 'certs/fullchain.pem'
+  privateKeyLocation: 'certs/privkey.pem'
