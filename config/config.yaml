@@ -1,5 +1,5 @@
 root_server:
-  host: 'root.atsign.org'
+  host: 'root.atsign.wtf'
   port: 64
 
 security:

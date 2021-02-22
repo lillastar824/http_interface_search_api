@@ -91,3 +91,9 @@ Then, you can access it via the browser or other http client as
 shown above with localhost. For example, 
 
 http://localhost:6464/#/@me
+
+
+
+
+
+

@@ -15,7 +15,7 @@ dependencies:
     git:
       url: git@github.com:atsign-company/atsign_foundation.git
       path: at_lookup
-      ref: master
+      ref: dev_env
   base2e15: ^0.3.0
 
 dev_dependencies:
